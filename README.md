@@ -1,5 +1,9 @@
 # Level 4 Task 23 -ReactJS V: Fetching data
 
+## Deployed
+
+https://carstensmartin.github.io/Level-4-Task-23-Deployed/
+
 ## NOTE
 
 For the purpose of showcasing the work I uploaded the full folder, in practice I would CD into the folder.
